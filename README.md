@@ -1,20 +1,20 @@
 # DATA ANALYST
 
 ## About Me
-I am Tunmise Akomolafe, a data analyst from Nigeria. I recently acquired the skill and i am eager to kick-start my career in the field. Although i'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field.
+I am Tunmise Akomolafe, a data analyst from Nigeria. I recently acquired the skill and I am eager to kick-start my career in the field. Although I'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field.
 
-During my academic journey, i immersered myself in courses on data visualization, programmimg and statistics. I have developed a solid foundation in tools like SQL, IBM SPSS, PowerBi, tableau and microsoft excel and i'm excited to apply these skills to real world projects.
+During my academic journey, I immerse myself in courses on data visualization, programming and statistics. I have developed a solid foundation in tools like SQL, IBM SPSS, PowerBI, tableau and Microsoft excel and I'm excited to apply these skills to real world projects.
 
-While i may not have professional experience yet, i've been actively engage in personal projects where i tackeled diverse dataset, conducted exploratory data analysis and created visualizations to covey insights. These experiences have honed my analytical abilities and fueled my passion for turning data into actionable insights.
+I’ve been actively engage in personal projects where I tackled diverse dataset, conducted exploratory data analysis and created visualizations to covey insights. These experiences have honed my analytical abilities and fuelled my passion for turning data into actionable insights.
 
-I am eager to join a supportive team where i can learn and contribute to projects that make a difference. Lets connect and explore how we can work together to unlock the power of data.
+I am eager to join a supportive team where I can learn and contribute to projects that make a difference. Lets connect and explore how we can work together to unlock the power of data.
 
 ## Technical Skills
-- Microsoft Excel.
-- SQL
-- PowerBi
-- Tableau
-- IBM SPSS
+Microsoft Excel.
+SQL
+PowerBI
+Tableau
+IBM SPSS
 
 ## My Expertise
 
