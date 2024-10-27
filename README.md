@@ -1,13 +1,18 @@
 # DATA ANALYST
 
 ## About Me
-I am Tunmise Akomolafe, a data analyst from Nigeria. I recently acquired the skill and I am eager to kick-start my career in the field. Although I'm new to tech world, my enthusiasm for numbers and solving problems drives me to excel in this dynamic field.
+I am Tunmise Akomolafe, a data analyst from Nigeria with a strong passion for transforming data into impactful insights. Since acquiring my skills in data analysis, I've been committed to building my expertise and advancing my career in this dynamic field.
 
-During my academic journey, I immerse myself in courses on data visualization, programming and statistics. I have developed a solid foundation in tools like SQL, IBM SPSS, PowerBI, tableau and Microsoft excel and I'm excited to apply these skills to real world projects.
+Through my academic journey, I immersed myself in courses focused on data visualization, programming, and statistics, developing a solid foundation in tools like SQL, IBM SPSS, Power BI, Tableau, and Microsoft Excel. I’m excited to apply these skills to real-world projects, and I've already taken steps in this direction.
 
-I’ve been actively engage in personal projects where I tackled diverse dataset, conducted exploratory data analysis and created visualizations to covey insights. These experiences have honed my analytical abilities and fuelled my passion for turning data into actionable insights.
+I've engaged in various personal projects, analyzing datasets from diverse fields such as:
 
-I am eager to join a supportive team where I can learn and contribute to projects that make a difference. Lets connect and explore how we can work together to unlock the power of data.
+Nigerian Electricity Distribution Company Analysis (2020 - 2023): Conducted an in-depth analysis to reveal trends and optimize decision-making.
+ShopBeta E-Commerce Biz: Leveraged e-commerce data to uncover user behavior and drive strategic growth.
+Celebrity Net Worth Analysis: Examined wealth trends and patterns in entertainment.
+NBA Players Analysis: Explored player performance and team dynamics to provide sports insights.
+
+These projects have refined my analytical skills and deepened my passion for data-driven storytelling. I am eager to join a collaborative team where I can contribute meaningfully and grow professionally. Let’s connect and explore how we can harness data to drive impactful solutions.
 
 ## Technical Skills
 Microsoft Excel.
