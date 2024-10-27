@@ -5,12 +5,16 @@ I am Tunmise Akomolafe, a data analyst from Nigeria with a strong passion for tr
 
 Through my academic journey, I immersed myself in courses focused on data visualization, programming, and statistics, developing a solid foundation in tools like SQL, IBM SPSS, Power BI, Tableau, and Microsoft Excel. I’m excited to apply these skills to real-world projects, and I've already taken steps in this direction.
 
-I've engaged in various personal projects, analyzing datasets from diverse fields such as:
+## I've engaged in various personal projects, analyzing datasets from diverse fields such as:
 
-Nigerian Electricity Distribution Company Analysis (2020 - 2023): Conducted an in-depth analysis to reveal trends and optimize decision-making.
-ShopBeta E-Commerce Biz: Leveraged e-commerce data to uncover user behavior and drive strategic growth.
-Celebrity Net Worth Analysis: Examined wealth trends and patterns in entertainment.
-NBA Players Analysis: Explored player performance and team dynamics to provide sports insights.
+### Nigerian Electricity Distribution Company Analysis (2020 - 2023): 
+Conducted an in-depth analysis to reveal trends and optimize decision-making.
+### ShopBeta E-Commerce Biz: 
+Leveraged e-commerce data to uncover user behavior and drive strategic growth.
+### Celebrity Net Worth Analysis: 
+Examined wealth trends and patterns in entertainment.
+### NBA Players Analysis: 
+Explored player performance and team dynamics to provide sports insights.
 
 These projects have refined my analytical skills and deepened my passion for data-driven storytelling. I am eager to join a collaborative team where I can contribute meaningfully and grow professionally. Let’s connect and explore how we can harness data to drive impactful solutions.
 
